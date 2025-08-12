@@ -9,7 +9,7 @@
 
 -  **Frontend:** React.js, Vite, Redux Toolkit, Tailwind CSS
 -  **State Management:** Redux Toolkit
--  **Backend:** [devTinder Backend](https://github.com/DreamerAkhilesh/BeMyMate-Backend)
+-  **Backend:** [BeMyMate Backend](https://github.com/DreamerAkhilesh/BeMyMate-Backend)
 -  **Authentication:** JWT
 -  **Database:** MongoDB (via backend)
 
@@ -48,7 +48,7 @@ npm run dev
 
 ## 🔧 API Endpoints
 
-The frontend interacts with the backend API hosted in the [devTinder-backend](https://github.com/DreamerAkhilesh/BeMyMate-Backend). Ensure the backend is running before using the frontend.
+The frontend interacts with the backend API hosted in the [BeMyMate-Backend](https://github.com/DreamerAkhilesh/BeMyMate-Backend). Ensure the backend is running before using the frontend.
 
 ## 🚀 Deployment
 
