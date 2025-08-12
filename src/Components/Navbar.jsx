@@ -1,4 +1,4 @@
-import axios from "axios";
+yimport axios from "axios";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
 import { BASE_URL } from "../utils/constants";
@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className="navbar px-5 flex justify-between">
         {/* Logo */}
         <Link to="/" className="text-2xl font-bold text-green-400 hover:text-green-300 transition">
-          DevTinder 🔥
+          BeMyMate 🔥
         </Link>
 
         {user && (
