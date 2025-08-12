@@ -17,12 +17,12 @@
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/devTinder-frontend.git
+git clone https://github.com/your-username/BeMyMate-Frontend.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-cd devTinder-frontend
+cd BeMyMate-Frontend
 ```
 
 3. Install dependencies:
@@ -48,7 +48,7 @@ npm run dev
 
 ## 🔧 API Endpoints
 
-The frontend interacts with the backend API hosted in the [devTinder-backend](https://github.com/akshadjaiswal/devTinder-backend). Ensure the backend is running before using the frontend.
+The frontend interacts with the backend API hosted in the [devTinder-backend](https://github.com/DreamerAkhilesh/BeMyMate-Backend). Ensure the backend is running before using the frontend.
 
 ## 🚀 Deployment
 
