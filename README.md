@@ -1,15 +1,15 @@
 
-# devTinder Frontend s
+# BeMyMate Frontend
 
 ## 🚀 Overview
 
-**devTinder** is a MERN stack application where developers can create profiles, send connection requests, and connect with each other, similar to a networking platform. This repository contains the frontend for devTinder.
+**BeMyMate** is a MERN stack application where developers can create profiles, send connection requests, and connect with each other, similar to a networking platform. This repository contains the frontend for devTinder.
 
 ## 🛠 Tech Stack
 
 -  **Frontend:** React.js, Vite, Redux Toolkit, Tailwind CSS
 -  **State Management:** Redux Toolkit
--  **Backend:** [devTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)
+-  **Backend:** [devTinder Backend](https://github.com/DreamerAkhilesh/BeMyMate-Backend)
 -  **Authentication:** JWT
 -  **Database:** MongoDB (via backend)
 
